@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rubik-cube-solver"
+name = "rubik_cube_solver"
 version = "0.1.0"

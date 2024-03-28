@@ -8,7 +8,7 @@ pub enum  Color {
     Yellow
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone, Copy)]
 pub struct  Face {
     pub colors: [[Color; 3]; 3]
 }
